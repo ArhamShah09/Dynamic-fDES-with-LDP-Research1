@@ -1,0 +1,16 @@
+Subject,Group,SourceRecord,RRIntervals,Database,StoredUnits
+Y6,Young,f1y06,7085,Fantasia,seconds
+Y7,Young,f1y07,5949,Fantasia,seconds
+Y8,Young,f1y08,7288,Fantasia,seconds
+Y9,Young,f1y09,8020,Fantasia,seconds
+Y10,Young,f1y10,8706,Fantasia,seconds
+O6,Elderly,f1o06,6230,Fantasia,seconds
+O7,Elderly,f1o07,7149,Fantasia,seconds
+O8,Elderly,f1o08,8487,Fantasia,seconds
+O9,Elderly,f1o09,4924,Fantasia,seconds
+O10,Elderly,f1o10,8240,Fantasia,seconds
+chf06,CHF,chf06,118633,BIDMC CHF,milliseconds
+chf07,CHF,chf07,92583,BIDMC CHF,milliseconds
+chf08,CHF,chf08,90758,BIDMC CHF,milliseconds
+chf09,CHF,chf09,115051,BIDMC CHF,milliseconds
+chf10,CHF,chf10,147304,BIDMC CHF,milliseconds

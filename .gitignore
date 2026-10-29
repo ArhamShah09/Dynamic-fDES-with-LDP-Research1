@@ -1,0 +1,5 @@
+data/**/*.txt
+matlab/results/*
+!matlab/results/.gitkeep
+figures/*.png
+*.asv

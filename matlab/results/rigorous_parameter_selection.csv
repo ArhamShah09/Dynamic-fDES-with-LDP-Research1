@@ -1,0 +1,4 @@
+GroupA,GroupB,MeanSelectedAlpha,MinSelectedAlpha,MaxSelectedAlpha,BoundaryRate
+Young,Elderly,51,7,86,0
+Young,CHF,118.4,7,152,0
+Elderly,CHF,79.2,23,177,0
